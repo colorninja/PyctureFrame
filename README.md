@@ -5,4 +5,11 @@ It will automatically resize and crop your images depending on your screen resol
 
 It is ment to be used in small machines like Raspberry Pi to show pomos on a screen.
 
-More on our project: [Here](https://blog.tsarev.co.uk/the-pyctureframe-project/)
+Dependancies:
+* Python Imaging Library
+* threading
+* Tkinter
+
+Demo: [YouTube](https://www.youtube.com/watch?v=0u1m62KdOM0)
+
+More on our project [here](https://blog.tsarev.co.uk/the-pyctureframe-project/)
